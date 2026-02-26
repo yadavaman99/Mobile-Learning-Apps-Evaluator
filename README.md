@@ -16,4 +16,4 @@ Research Methodology – Comparative Analysis
 Data Collection – Observation, App Testing, Online Research
 Tools Used:
 > Python
-> MYSQL, SQLite
+> Database
